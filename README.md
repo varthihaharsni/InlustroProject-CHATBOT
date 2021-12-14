@@ -1,2 +1,2 @@
 # InlustroProject-CHATBOT
-It is Jupyter notebook file which you can download and directly import in Jupyter notebook 
+It is a Jupyter notebook file which you can download it and directly import in Jupyter notebook.
